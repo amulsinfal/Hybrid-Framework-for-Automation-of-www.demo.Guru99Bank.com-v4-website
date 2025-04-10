@@ -30,7 +30,7 @@ Following are the dependencies added to the pom.xml for this project : <br>
 
 | # | Name |  Version |
 | -------- | -------- | -------- |
-| 1 | Selenium java | 14.4.1 |
+| 1 | Selenium java | 4.14.1 |
 | 3 | TestNG | 7.8.0 |
 | 4 | Extent Reports | 5.1.1 |
   
