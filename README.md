@@ -14,7 +14,7 @@ The project uses the following tools, frameworks:
 | # | Tech/Tools | Name | Version |
 | -------- |-------- | -------- | -------- |
 | 1 | Programming language    | Java    | 17.0.8    | 
-| 2 | Automation tool    | Selenium webdriver     | 14.4.1     |
+| 2 | Automation tool    | Selenium webdriver     | 4.14.1     |
 | 3 | Testing framework | TestNG | 7.8.0 |
 | 4 | Build Tool | Maven | 3.9.4 |
 | 5 | IDE | Eclipse | 2023-09(4.29.0) |
